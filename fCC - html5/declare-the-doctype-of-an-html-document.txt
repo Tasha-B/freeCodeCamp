@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<html>
+<h1>Lazy Cat</h1>
+</html>
